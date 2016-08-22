@@ -1,0 +1,28 @@
+#hero {
+  margin: 2.7em auto;
+  text-align: center;
+}
+
+#name {
+  font-family: "HelveticaNeue-Bold", Sans-Serif;
+  letter-spacing: -0.03em;
+  font-size: 2.7em;
+}
+
+#profession {
+  font-size: 1.3em;
+}
+
+#blurb {
+  text-align: center;
+  margin: 1em 0em;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
