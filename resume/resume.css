@@ -1,0 +1,114 @@
+body {
+  font-family: Georgia, serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#resume {
+  width: 960px;
+  margin: auto;
+}
+
+#resume-internal {
+  margin: 0 60px;
+}
+
+#header {
+  font-size: 0.9em;
+}
+
+.col-1-third {
+  width: 33%;
+}
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+#header #contact > div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#identity #name {
+  font-family: "HelveticaNeue-Bold", "Helvetica", sans-serif;
+  letter-spacing: -0.03em;
+  font-size: 2.7em;
+}
+
+#identity #title {
+  font-size: 1.3em;
+}
+
+#identity {
+  padding: 0.95em 0em;
+}
+
+.skill {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.skill .skill-name {
+  font-style: italic;
+}
+
+.skill .skill-level {
+  font-size: 0.9em;
+}
+
+.skill li {
+  list-style: none;
+}
+
+.section {
+  padding: 0.7em 0em;
+}
+
+.section-title {
+  display: block;
+  font-family: "HelveticaNeue-Bold", "Helvetica", sans-serif;
+  font-size: 1.1em;
+  padding: 0 0 0.8em 0em;
+}
+
+.section-h2 {
+  display: block;
+  font-weight: bold;
+}
+
+.section-h3 {
+  font-style: italic;
+}
+
+.section-h4 {
+  font-size: 0.9em;
+}
+
+.job .duration {
+  display: inline-block;
+  float: right;
+}
+
+.degree .area {
+  display: block;
+}
+
+.page-break {
+  page-break-before: always;
+}
