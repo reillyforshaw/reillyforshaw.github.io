@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(255,70,0);
+  color: white;
+}
+
+#hero {
+  margin: 2.7em auto;
+  text-align: center;
+}
+
+#name {
+  font-family: "HelveticaNeue-Bold", Sans-Serif;
+  letter-spacing: -0.03em;
+  font-size: 2.7em;
+}
+
+#description {
+  font-size: 1.3em;
+}
+
+#screenshots {
+  text-align: center;
+  margin: 1em 0em;
+}
+
+#appstore {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
