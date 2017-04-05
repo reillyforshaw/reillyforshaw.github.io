@@ -56,7 +56,11 @@ a:hover {
 }
 
 #identity {
-  padding: 0.95em 0em;
+  padding: 0.9em 0em;
+}
+
+.summary {
+  padding: 0 0.9em;
 }
 
 .skill {
@@ -84,7 +88,7 @@ a:hover {
   display: block;
   font-family: "HelveticaNeue-Bold", "Helvetica", sans-serif;
   font-size: 1.1em;
-  padding: 0 0 0.8em 0em;
+  padding: 0 0 0.6em 0em;
 }
 
 .section-h2 {
@@ -111,4 +115,8 @@ a:hover {
 
 .page-break {
   page-break-before: always;
+}
+
+.highlights p {
+  padding: 0 0.9em;
 }
