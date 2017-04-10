@@ -104,6 +104,10 @@ a:hover {
   font-size: 0.9em;
 }
 
+.job {
+  padding: 0.8em 0em;
+}
+
 .job .duration {
   display: inline-block;
   float: right;
@@ -119,4 +123,9 @@ a:hover {
 
 .highlights p {
   padding: 0 0.9em;
+}
+
+.highlights .skills {
+  font-size: 0.9em;
+  font-weight: bold;
 }
