@@ -106,6 +106,7 @@ a:hover {
 
 .job {
   padding: 0.8em 0em;
+  page-break-inside: avoid;
 }
 
 .job .duration {
